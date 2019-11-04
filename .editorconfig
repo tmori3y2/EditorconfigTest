@@ -1,0 +1,21 @@
+# .editorconfig
+#   Visual Studio, vscode, Atom
+#   Windows 10
+
+# Project root settings.
+#
+# undefined, root = unset | false | true
+#
+# undefined | unset | false:
+#   If .editorconfig files are found in the ancestor folders,
+#   these files are read from the top to the bottom
+#   and the settings are inherited.
+#
+# true:
+#   Mark this folder as the project root.
+#
+#   If you do not want .editorconfig to manage subfolders, place the following files:
+#     root = true
+#     [End Of File]
+#
+root = true
